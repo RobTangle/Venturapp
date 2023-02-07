@@ -1,0 +1,20 @@
+{
+  "name": "venturapp-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./build/index",
+    "dev": "tsnd --respawn index.ts"
+  },
+  "author": "Roberto Spinelli",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0"
+  }
+}
