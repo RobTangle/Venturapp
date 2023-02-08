@@ -18,7 +18,7 @@ export interface INewTrip {
 // Object to refer to for establishing certain validation values:
 export const tripValidValues = {
   name: {
-    maxlength: 150,
+    maxlength: 140,
   },
   price: {
     min: 0,
