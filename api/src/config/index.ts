@@ -7,7 +7,7 @@ const config = {
     port: PORT,
   },
   database: {
-    uri: MONGO_DB_URI,
+    uri: MONGO_DB_URI || "",
   },
 };
 
