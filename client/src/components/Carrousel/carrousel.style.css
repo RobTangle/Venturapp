@@ -5,6 +5,10 @@
   margin: 20px 0px;
 }
 
+.carrousel-container > button:hover {
+  cursor: pointer;
+}
+
 .h2-text {
   padding: 0px 15px;
 }
