@@ -1,5 +1,6 @@
 import axios from "axios";
 
+// GET TRIPS: Fetches the full list of trips saved in the database and defines tripsState.trips with the array of trips
 export async function getTrips(tripsState, setTripsState, url) {
   try {
     console.log("En get trips");
