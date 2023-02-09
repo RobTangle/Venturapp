@@ -6,7 +6,7 @@ This repository is deployed in this URL: https://venturapp-robtangle.vercel.app/
 
 <hr>
 
-### The directions for the creation of this repository where the following:
+### The directions for the creation of this repository were the following:
 
 <quote>
 
@@ -30,15 +30,15 @@ The card should be a title with the name, and the price at the bottom of the car
 
 ## Main Techs used:
 
-#### Front-end: JavaScript, ReactJS, CSS, axios
+#### Front-end: JavaScript, ReactJS, CSS, Axios
 
-#### Back-end: TypeScript, Express, Mongoose, MongoDB
+#### Back-end: TypeScript, Express.js, Mongoose, MongoDB
 
 <hr>
 
 ## How to run the application
 
-NOTE 1: This project is divided in to main folders: "client" and "api".
+NOTE 1: This project is divided into two main folders: "client" and "api".
 The "client" folder is responsible of running the front-end react application.
 The "api" folder is responsible of running the Express-Mongo back-end application.
 <br>
