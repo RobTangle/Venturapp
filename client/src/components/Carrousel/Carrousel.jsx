@@ -25,7 +25,9 @@ export function Carrousel({ tripsState }) {
 
   return Array.isArray(tripsState.trips) ? (
     <div>
-      <h2 className="h2-text">{`Here is a selection of ${tripsState?.trips?.length} of our awesome trips that we have prepared for you!`}</h2>
+      <h2 className="h2-text">
+        {`Check out these ${tripsState?.trips?.length} amazing trips we've handpicked just for you!`}
+      </h2>
       <div className="carrousel-container">
         <button onClick={handlePrevious}>Prev</button>
         <Card trip={tripsState?.trips?.[index]} />
