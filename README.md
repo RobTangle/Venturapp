@@ -2,7 +2,7 @@
 
 This is a full-stack sample project made by Roberto Spinelli.
 
-This repository is deployed in this URL:
+This repository is deployed in this URL: https://venturapp-robtangle.vercel.app/
 
 <hr>
 
