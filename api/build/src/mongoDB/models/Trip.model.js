@@ -5,7 +5,7 @@ const mongoose_1 = require("mongoose");
 // Object to refer to for establishing certain validation values:
 exports.tripValidValues = {
     name: {
-        maxlength: 150,
+        maxlength: 140,
     },
     price: {
         min: 0,
